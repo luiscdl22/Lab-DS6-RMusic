@@ -36,6 +36,13 @@ Musica/
 
 └── package.json
 
+## Ejecucion
+
+```bash
+pnpm install
+npx expo start --lan
+```
+
 ## Controles implementados
 
 | Boton | Funcion |
